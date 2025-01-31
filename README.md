@@ -19,7 +19,7 @@
 <h2>🛠 Technologies Used</h2>
 <ul>
   <li><strong>Frontend</strong>: Android (Java)</li>
-  <li><strong>Backend</strong>: Java</li>
+  <li><strong>Backend</strong>: XML, Java</li>
   <li><strong>Cloud Storage</strong>: Amazon S3</li>
 </ul>
 
